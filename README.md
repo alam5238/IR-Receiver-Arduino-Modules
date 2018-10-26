@@ -11,7 +11,9 @@ All kind of Arduino Uno Modules circuit Diagram, Library, Installation process a
 
 ## PCB Layout:
 
-![circuit_diagram](pcblayout.png "Circuit diagram with component")
+![circuit_diagram](PCB_Working-IR-Receiver-Module-PCB_20181027003333.png "Circuit diagram with component")
+![circuit_diagram](TOP+Bottom.jpg "Circuit diagram with component")
+![circuit_diagram](font.jpg "Circuit diagram with component")
 
 
 ## HappY Electronics :D
