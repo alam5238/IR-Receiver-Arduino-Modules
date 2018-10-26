@@ -3,7 +3,7 @@ All kind of Arduino Uno Modules circuit Diagram, Library, Installation process a
 
 ## Pinout VS1838/TSOP1838 IR:
 
-![circuit_diagram](1838IR "Circuit diagram with component")
+![circuit_diagram](1838IR.png "Circuit diagram with component")
 
 ## Circuit Diagram:
 
