@@ -20,3 +20,7 @@ All kind of Arduino Uno Modules circuit Diagram, Library, Installation process a
 
 ## HappY Electronics :D
 ![circuit_diagram](https://github.com/alam5238/Arduino-Stand-Alone/blob/master/ani.gif "Circuit diagram with component") :+1:
+
+
+## LINK::
+https://easyeda.com/nazmul.shuvo2/Working-IR-receiver-Module-for-MC
